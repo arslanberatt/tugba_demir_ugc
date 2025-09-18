@@ -7,18 +7,18 @@ const Business = ({
   stats = [
     {
       icon: <Users2 className="w-7 h-7" />,
-      value: "500+",
+      value: "800+",
       label: "TAKİPÇİ",
     },
     {
       icon: <LineChart className="w-7 h-7" />,
 
-      value: "18 - 29 YAŞ",
-      label: "Yaş Aralığı",
+      value: "18 - 35 YAŞ",
+      label: "YAŞ ARALIĞI",
     },
     {
       icon: <BadgePercent className="w-7 h-7" />,
-      value: "17B",
+      value: "31B +",
       label: "GÖRÜNTÜLEMELER",
     },
   ],

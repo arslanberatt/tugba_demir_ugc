@@ -34,7 +34,7 @@ const App = () => {
         <div className="py-6 mt-4 md:mt-0 w-full flex justify-center text-white border-t border-grey-300/20 text-xs text-grey-100/80">
           © {new Date().getFullYear()}
           <span className="ml-1 hover:text-gray-500">
-            <a href="http://arslanberatt.com/">Artyom</a>
+            <a href="http://artyomdev.com/">Artyom</a>
           </span>{" "}
           , Tüm Haklar Saklıdır.
         </div>

@@ -7,7 +7,7 @@ const Projects = () => {
     <section className="max-w-6xl text-black mx-auto py-12 px-6">
       {/* Başlık */}
       <h2 className="text-3xl md:text-4xl font-serif tracking-tight mb-10 md:text-start text-center uppercase ">
-        ÇALIŞMALARIM
+        İşbirliklerim
       </h2>
 
       {/* Görseller ve Butonlar */}
