@@ -2,7 +2,7 @@ import AboutMe from "./components/AboutMe";
 import Business from "./components/Business";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import PhotoSec from "./components/photoSec";
+import PhotoSec from "./components/PhotoSec";
 import Projects from "./components/Projects";
 
 const App = () => {
